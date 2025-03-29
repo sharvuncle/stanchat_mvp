@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431489202827",
+    "project_id": "stanchat-44420",
+    "storage_bucket": "stanchat-44420.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431489202827:android:d7bef552b98af7ec51b28e",
+        "android_client_info": {
+          "package_name": "com.example.stanchat_mvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdENELaGU_2HEYUKisAG9qKyeC1wQWuMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
